@@ -10,3 +10,4 @@ MarkupSafe==2.1.0
 requests==2.21.0
 urllib3==1.24.1
 Werkzeug==1.0.1
+Numpy==1.21.4
